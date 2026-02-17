@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+plotly-express
+requests
+beautifulsoup4
+boto3
+python-dotenv
+pymysql
+sqlalchemy
+matplotlib
+seaborn
+openpyxl
