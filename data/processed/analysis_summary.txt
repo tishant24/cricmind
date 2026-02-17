@@ -1,0 +1,12 @@
+CRICKET DATA ANALYSIS SUMMARY
+==================================================
+
+Total Matches       : 25
+T20 Matches         : 21
+Test Matches        : 4
+ODI Matches         : 0
+Completed           : 22
+Ongoing             : 3
+Avg T20 Score       : 160.9
+Unique Teams        : 35
+Unique Venues       : 12

@@ -1,0 +1,12 @@
+CRICSHEET IPL DATA SUMMARY
+==================================================
+
+Total Matches: 100
+Date Range: 2017-04-05 to 2018-05-09
+Unique Venues: 16
+
+Matches by Season:
+season
+2017    59
+2018    41
+Name: count, dtype: int64

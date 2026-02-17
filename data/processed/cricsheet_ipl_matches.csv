@@ -1,0 +1,101 @@
+match_id,date,venue,city,teams,team1,team2,toss_winner,toss_decision,winner,result,season,match_type,gender,total_balls
+1082591,2017-04-05,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,"Sunrisers Hyderabad, Royal Challengers Bangalore",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,,2017,T20,male,40
+1082592,2017-04-06,Maharashtra Cricket Association Stadium,Pune,"Rising Pune Supergiant, Mumbai Indians",Rising Pune Supergiant,Mumbai Indians,Rising Pune Supergiant,field,Rising Pune Supergiant,,2017,T20,male,40
+1082593,2017-04-07,Saurashtra Cricket Association Stadium,Rajkot,"Gujarat Lions, Kolkata Knight Riders",Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,,2017,T20,male,35
+1082594,2017-04-08,Holkar Cricket Stadium,Indore,"Kings XI Punjab, Rising Pune Supergiant",Kings XI Punjab,Rising Pune Supergiant,Kings XI Punjab,field,Kings XI Punjab,,2017,T20,male,39
+1082595,2017-04-08,M.Chinnaswamy Stadium,Bengaluru,"Royal Challengers Bangalore, Delhi Daredevils",Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,,2017,T20,male,40
+1082596,2017-04-09,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,"Sunrisers Hyderabad, Gujarat Lions",Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,2017,T20,male,36
+1082597,2017-04-09,Wankhede Stadium,Mumbai,"Mumbai Indians, Kolkata Knight Riders",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,,2017,T20,male,40
+1082598,2017-04-10,Holkar Cricket Stadium,Indore,"Kings XI Punjab, Royal Challengers Bangalore",Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Kings XI Punjab,,2017,T20,male,35
+1082599,2017-04-11,Maharashtra Cricket Association Stadium,Pune,"Rising Pune Supergiant, Delhi Daredevils",Rising Pune Supergiant,Delhi Daredevils,Rising Pune Supergiant,field,Delhi Daredevils,,2017,T20,male,37
+1082600,2017-04-12,Wankhede Stadium,Mumbai,"Mumbai Indians, Sunrisers Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,,2017,T20,male,39
+1082601,2017-04-13,Eden Gardens,Kolkata,"Kolkata Knight Riders, Kings XI Punjab",Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,field,Kolkata Knight Riders,,2017,T20,male,37
+1082602,2017-04-14,M Chinnaswamy Stadium,Bangalore,"Royal Challengers Bangalore, Mumbai Indians",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,,2017,T20,male,39
+1082603,2017-04-14,Saurashtra Cricket Association Stadium,Rajkot,"Gujarat Lions, Rising Pune Supergiant",Gujarat Lions,Rising Pune Supergiant,Gujarat Lions,field,Gujarat Lions,,2017,T20,male,38
+1082604,2017-04-15,Eden Gardens,Kolkata,"Kolkata Knight Riders, Sunrisers Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,,2017,T20,male,40
+1082605,2017-04-15,Feroz Shah Kotla,Delhi,"Delhi Daredevils, Kings XI Punjab",Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,bat,Delhi Daredevils,,2017,T20,male,40
+1082606,2017-04-16,Wankhede Stadium,Mumbai,"Mumbai Indians, Gujarat Lions",Mumbai Indians,Gujarat Lions,Mumbai Indians,field,Mumbai Indians,,2017,T20,male,40
+1082607,2017-04-16,M Chinnaswamy Stadium,Bangalore,"Royal Challengers Bangalore, Rising Pune Supergiant",Royal Challengers Bangalore,Rising Pune Supergiant,Royal Challengers Bangalore,field,Rising Pune Supergiant,,2017,T20,male,40
+1082608,2017-04-17,Feroz Shah Kotla,Delhi,"Delhi Daredevils, Kolkata Knight Riders",Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,bat,Kolkata Knight Riders,,2017,T20,male,40
+1082609,2017-04-17,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,"Sunrisers Hyderabad, Kings XI Punjab",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad,,2017,T20,male,40
+1082610,2017-04-18,Saurashtra Cricket Association Stadium,Rajkot,"Gujarat Lions, Royal Challengers Bangalore",Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,field,Royal Challengers Bangalore,,2017,T20,male,40
+1082611,2017-04-19,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,"Sunrisers Hyderabad, Delhi Daredevils",Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,,2017,T20,male,40
+1082612,2017-04-20,Holkar Cricket Stadium,Indore,"Kings XI Punjab, Mumbai Indians",Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,,2017,T20,male,36
+1082613,2017-04-21,Eden Gardens,Kolkata,"Kolkata Knight Riders, Gujarat Lions",Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,,2017,T20,male,39
+1082614,2017-04-22,Wankhede Stadium,Mumbai,"Mumbai Indians, Delhi Daredevils",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Mumbai Indians,,2017,T20,male,40
+1082615,2017-04-22,Maharashtra Cricket Association Stadium,Pune,"Rising Pune Supergiant, Sunrisers Hyderabad",Rising Pune Supergiant,Sunrisers Hyderabad,Rising Pune Supergiant,field,Rising Pune Supergiant,,2017,T20,male,40
+1082616,2017-04-23,Saurashtra Cricket Association Stadium,Rajkot,"Gujarat Lions, Kings XI Punjab",Gujarat Lions,Kings XI Punjab,Gujarat Lions,field,Kings XI Punjab,,2017,T20,male,40
+1082617,2017-04-23,Eden Gardens,Kolkata,"Kolkata Knight Riders, Royal Challengers Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,,2017,T20,male,30
+1082618,2017-04-24,Wankhede Stadium,Mumbai,"Mumbai Indians, Rising Pune Supergiant",Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,field,Rising Pune Supergiant,,2017,T20,male,40
+1082620,2017-04-26,Maharashtra Cricket Association Stadium,Pune,"Rising Pune Supergiant, Kolkata Knight Riders",Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,,2017,T20,male,39
+1082621,2017-04-27,M Chinnaswamy Stadium,Bangalore,"Royal Challengers Bangalore, Gujarat Lions",Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,,2017,T20,male,34
+1082622,2017-04-28,Eden Gardens,Kolkata,"Kolkata Knight Riders, Delhi Daredevils",Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,field,Kolkata Knight Riders,,2017,T20,male,37
+1082623,2017-04-28,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,"Kings XI Punjab, Sunrisers Hyderabad",Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,field,Sunrisers Hyderabad,,2017,T20,male,40
+1082624,2017-04-29,Maharashtra Cricket Association Stadium,Pune,"Rising Pune Supergiant, Royal Challengers Bangalore",Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rising Pune Supergiant,,2017,T20,male,40
+1082625,2017-04-29,Saurashtra Cricket Association Stadium,Rajkot,"Gujarat Lions, Mumbai Indians",Gujarat Lions,Mumbai Indians,Gujarat Lions,bat,,tie,2017,T20,male,42
+1082626,2017-04-30,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,"Kings XI Punjab, Delhi Daredevils",Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,field,Kings XI Punjab,,2017,T20,male,26
+1082627,2017-04-30,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,"Sunrisers Hyderabad, Kolkata Knight Riders",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,,2017,T20,male,40
+1082628,2017-05-01,Wankhede Stadium,Mumbai,"Mumbai Indians, Royal Challengers Bangalore",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Mumbai Indians,,2017,T20,male,40
+1082629,2017-05-01,Maharashtra Cricket Association Stadium,Pune,"Rising Pune Supergiant, Gujarat Lions",Rising Pune Supergiant,Gujarat Lions,Rising Pune Supergiant,field,Rising Pune Supergiant,,2017,T20,male,40
+1082630,2017-05-02,Feroz Shah Kotla,Delhi,"Delhi Daredevils, Sunrisers Hyderabad",Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,field,Delhi Daredevils,,2017,T20,male,40
+1082631,2017-05-03,Eden Gardens,Kolkata,"Kolkata Knight Riders, Rising Pune Supergiant",Kolkata Knight Riders,Rising Pune Supergiant,Rising Pune Supergiant,field,Rising Pune Supergiant,,2017,T20,male,40
+1082632,2017-05-04,Feroz Shah Kotla,Delhi,"Delhi Daredevils, Gujarat Lions",Delhi Daredevils,Gujarat Lions,Delhi Daredevils,field,Delhi Daredevils,,2017,T20,male,38
+1082633,2017-05-05,M Chinnaswamy Stadium,Bangalore,"Royal Challengers Bangalore, Kings XI Punjab",Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,field,Kings XI Punjab,,2017,T20,male,39
+1082634,2017-05-06,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,"Sunrisers Hyderabad, Rising Pune Supergiant",Sunrisers Hyderabad,Rising Pune Supergiant,Sunrisers Hyderabad,field,Rising Pune Supergiant,,2017,T20,male,40
+1082635,2017-05-06,Feroz Shah Kotla,Delhi,"Delhi Daredevils, Mumbai Indians",Delhi Daredevils,Mumbai Indians,Delhi Daredevils,field,Mumbai Indians,,2017,T20,male,34
+1082636,2017-05-07,M Chinnaswamy Stadium,Bangalore,"Royal Challengers Bangalore, Kolkata Knight Riders",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,,2017,T20,male,36
+1082637,2017-05-07,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,"Kings XI Punjab, Gujarat Lions",Kings XI Punjab,Gujarat Lions,Gujarat Lions,field,Gujarat Lions,,2017,T20,male,40
+1082638,2017-05-08,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,"Sunrisers Hyderabad, Mumbai Indians",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,,2017,T20,male,39
+1082639,2017-05-09,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,"Kings XI Punjab, Kolkata Knight Riders",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,field,Kings XI Punjab,,2017,T20,male,40
+1082640,2017-05-10,Green Park,Kanpur,"Gujarat Lions, Delhi Daredevils",Gujarat Lions,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,,2017,T20,male,40
+1082641,2017-05-11,Wankhede Stadium,Mumbai,"Mumbai Indians, Kings XI Punjab",Mumbai Indians,Kings XI Punjab,Mumbai Indians,field,Kings XI Punjab,,2017,T20,male,40
+1082642,2017-05-12,Feroz Shah Kotla,Delhi,"Delhi Daredevils, Rising Pune Supergiant",Delhi Daredevils,Rising Pune Supergiant,Delhi Daredevils,bat,Delhi Daredevils,,2017,T20,male,40
+1082643,2017-05-13,Green Park,Kanpur,"Gujarat Lions, Sunrisers Hyderabad",Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,2017,T20,male,39
+1082644,2017-05-13,Eden Gardens,Kolkata,"Kolkata Knight Riders, Mumbai Indians",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians,,2017,T20,male,40
+1082645,2017-05-14,Maharashtra Cricket Association Stadium,Pune,"Rising Pune Supergiant, Kings XI Punjab",Rising Pune Supergiant,Kings XI Punjab,Rising Pune Supergiant,field,Rising Pune Supergiant,,2017,T20,male,28
+1082646,2017-05-14,Feroz Shah Kotla,Delhi,"Delhi Daredevils, Royal Challengers Bangalore",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,,2017,T20,male,40
+1082647,2017-05-16,Wankhede Stadium,Mumbai,"Mumbai Indians, Rising Pune Supergiant",Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,field,Rising Pune Supergiant,,2017,T20,male,40
+1082648,2017-05-17,M Chinnaswamy Stadium,Bangalore,"Sunrisers Hyderabad, Kolkata Knight Riders",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,,2017,T20,male,26
+1082649,2017-05-19,M Chinnaswamy Stadium,Bangalore,"Mumbai Indians, Kolkata Knight Riders",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,,2017,T20,male,34
+1082650,2017-05-21,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,"Mumbai Indians, Rising Pune Supergiant",Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,bat,Mumbai Indians,,2017,T20,male,40
+1136561,2018-04-07,Wankhede Stadium,Mumbai,"Mumbai Indians, Chennai Super Kings",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,,2018,T20,male,40
+1136562,2018-04-08,Punjab Cricket Association IS Bindra Stadium,Chandigarh,"Delhi Daredevils, Kings XI Punjab",Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,,2018,T20,male,39
+1136563,2018-04-08,Eden Gardens,Kolkata,"Royal Challengers Bangalore, Kolkata Knight Riders",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,,2018,T20,male,39
+1136564,2018-04-09,Rajiv Gandhi International Stadium,Hyderabad,"Rajasthan Royals, Sunrisers Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,2018,T20,male,36
+1136565,2018-04-10,MA Chidambaram Stadium,Chennai,"Kolkata Knight Riders, Chennai Super Kings",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,,2018,T20,male,40
+1136566,2018-04-11,Sawai Mansingh Stadium,Jaipur,"Rajasthan Royals, Delhi Daredevils",Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,Rajasthan Royals,,2018,T20,male,24
+1136567,2018-04-12,Rajiv Gandhi International Stadium,Hyderabad,"Mumbai Indians, Sunrisers Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,2018,T20,male,40
+1136568,2018-04-13,M.Chinnaswamy Stadium,Bengaluru,"Kings XI Punjab, Royal Challengers Bangalore",Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,2018,T20,male,40
+1136569,2018-04-14,Wankhede Stadium,Mumbai,"Mumbai Indians, Delhi Daredevils",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils,,2018,T20,male,40
+1136570,2018-04-14,Eden Gardens,Kolkata,"Kolkata Knight Riders, Sunrisers Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,,2018,T20,male,39
+1136571,2018-04-15,M.Chinnaswamy Stadium,Bengaluru,"Rajasthan Royals, Royal Challengers Bangalore",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,,2018,T20,male,40
+1136572,2018-04-15,Punjab Cricket Association IS Bindra Stadium,Chandigarh,"Kings XI Punjab, Chennai Super Kings",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Kings XI Punjab,,2018,T20,male,40
+1136573,2018-04-16,Eden Gardens,Kolkata,"Kolkata Knight Riders, Delhi Daredevils",Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,Kolkata Knight Riders,,2018,T20,male,35
+1136574,2018-04-17,Wankhede Stadium,Mumbai,"Mumbai Indians, Royal Challengers Bangalore",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,,2018,T20,male,40
+1136575,2018-04-18,Sawai Mansingh Stadium,Jaipur,"Rajasthan Royals, Kolkata Knight Riders",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,,2018,T20,male,39
+1136576,2018-04-19,Punjab Cricket Association IS Bindra Stadium,Chandigarh,"Kings XI Punjab, Sunrisers Hyderabad",Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,Kings XI Punjab,,2018,T20,male,40
+1136577,2018-04-20,Maharashtra Cricket Association Stadium,Pune,"Chennai Super Kings, Rajasthan Royals",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,,2018,T20,male,39
+1136578,2018-04-21,Eden Gardens,Kolkata,"Kolkata Knight Riders, Kings XI Punjab",Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,,2018,T20,male,32
+1136579,2018-04-21,M.Chinnaswamy Stadium,Bengaluru,"Delhi Daredevils, Royal Challengers Bangalore",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,,2018,T20,male,38
+1136580,2018-04-22,Rajiv Gandhi International Stadium,Hyderabad,"Chennai Super Kings, Sunrisers Hyderabad",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,,2018,T20,male,40
+1136581,2018-04-22,Sawai Mansingh Stadium,Jaipur,"Mumbai Indians, Rajasthan Royals",Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,,2018,T20,male,40
+1136582,2018-04-23,Arun Jaitley Stadium,Delhi,"Kings XI Punjab, Delhi Daredevils",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Kings XI Punjab,,2018,T20,male,40
+1136583,2018-04-24,Wankhede Stadium,Mumbai,"Sunrisers Hyderabad, Mumbai Indians",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Sunrisers Hyderabad,,2018,T20,male,38
+1136584,2018-04-25,M.Chinnaswamy Stadium,Bengaluru,"Royal Challengers Bangalore, Chennai Super Kings",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,,2018,T20,male,40
+1136585,2018-04-26,Rajiv Gandhi International Stadium,Hyderabad,"Sunrisers Hyderabad, Kings XI Punjab",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad,,2018,T20,male,40
+1136586,2018-04-27,Arun Jaitley Stadium,Delhi,"Delhi Daredevils, Kolkata Knight Riders",Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Daredevils,,2018,T20,male,40
+1136587,2018-04-28,Maharashtra Cricket Association Stadium,Pune,"Chennai Super Kings, Mumbai Indians",Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,,2018,T20,male,40
+1136588,2018-04-29,Sawai Mansingh Stadium,Jaipur,"Sunrisers Hyderabad, Rajasthan Royals",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,,2018,T20,male,40
+1136589,2018-04-29,M.Chinnaswamy Stadium,Bengaluru,"Royal Challengers Bangalore, Kolkata Knight Riders",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,,2018,T20,male,40
+1136590,2018-04-30,Maharashtra Cricket Association Stadium,Pune,"Chennai Super Kings, Delhi Daredevils",Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,Chennai Super Kings,,2018,T20,male,40
+1136591,2018-05-01,M.Chinnaswamy Stadium,Bengaluru,"Royal Challengers Bangalore, Mumbai Indians",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,,2018,T20,male,40
+1136592,2018-05-02,Arun Jaitley Stadium,Delhi,"Delhi Daredevils, Rajasthan Royals",Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,Delhi Daredevils,,2018,T20,male,30
+1136593,2018-05-03,Eden Gardens,Kolkata,"Chennai Super Kings, Kolkata Knight Riders",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,,2018,T20,male,38
+1136594,2018-05-04,Holkar Cricket Stadium,Indore,"Kings XI Punjab, Mumbai Indians",Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,,2018,T20,male,39
+1136595,2018-05-05,Maharashtra Cricket Association Stadium,Pune,"Royal Challengers Bangalore, Chennai Super Kings",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,,2018,T20,male,38
+1136596,2018-05-05,Rajiv Gandhi International Stadium,Hyderabad,"Delhi Daredevils, Sunrisers Hyderabad",Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,Sunrisers Hyderabad,,2018,T20,male,40
+1136597,2018-05-06,Wankhede Stadium,Mumbai,"Mumbai Indians, Kolkata Knight Riders",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,,2018,T20,male,40
+1136598,2018-05-06,Holkar Cricket Stadium,Indore,"Rajasthan Royals, Kings XI Punjab",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,,2018,T20,male,39
+1136599,2018-05-07,Rajiv Gandhi International Stadium,Hyderabad,"Sunrisers Hyderabad, Royal Challengers Bangalore",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,,2018,T20,male,40
+1136600,2018-05-08,Sawai Mansingh Stadium,Jaipur,"Rajasthan Royals, Kings XI Punjab",Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,bat,Rajasthan Royals,,2018,T20,male,40
+1136601,2018-05-09,Eden Gardens,Kolkata,"Mumbai Indians, Kolkata Knight Riders",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,,2018,T20,male,39
