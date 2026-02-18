@@ -115,23 +115,7 @@ def first_api_call():
         print(f"   ✅ Saved to: {filename}")
         print(f"   👀 Open this file in VSCode to see the full structure!")
         
-        # Summary
-        print(f"\n" + "="*70)
-        print(f"✅ API CALL COMPLETE - SUMMARY")
-        print("="*70)
-        print(f"   • Made HTTP GET request")
-        print(f"   • Received status code: {response.status_code}")
-        print(f"   • Parsed JSON response")
-        print(f"   • Found {len(matches)} matches")
-        print(f"   • Saved data to file")
         
-        print(f"\n🎓 WHAT YOU LEARNED:")
-        print(f"   1. How to load API keys from .env")
-        print(f"   2. How to make HTTP GET requests")
-        print(f"   3. How to check response status codes")
-        print(f"   4. How to parse JSON data")
-        print(f"   5. How to extract information from nested data")
-        print(f"   6. How to save data to files")
         
         return data
         
